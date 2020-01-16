@@ -3,8 +3,8 @@
 #include <WiFi.h>
 #include <FirebaseESP32.h>
 
-#define FIREBASE_HOST "si-mukbov.firebaseio.com" 
-#define FIREBASE_AUTH "h1jjx2awaIIoyMhExDA1olJsxLuxWuRlS3YZo0Z9"
+#define FIREBASE_HOST "-" 
+#define FIREBASE_AUTH "-"
 #define WIFI_SSID "L"
 #define WIFI_PASSWORD "12345678i"
 
